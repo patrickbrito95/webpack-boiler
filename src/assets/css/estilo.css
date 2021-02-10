@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(26, 26, 44);
+    background-image: url('../imgs/logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
